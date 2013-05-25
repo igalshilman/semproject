@@ -30,9 +30,6 @@ int main(int argc, char *argv[])
     printf("%d\t\t\t%d\t\t\t%ld\n", cpu_usage, cpu_deg, pen);
   }
 
-
-
-  
 	return 0;
 } 
 
